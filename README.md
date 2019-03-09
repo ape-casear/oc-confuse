@@ -15,7 +15,9 @@ RenameDir.sh                              # 修改目录名 包括工程名字
 
 #### 注意
 1 开始前需要把工程整个复制到shell脚本的工作目录， 也就是和这个README.md同级的
+
 2 提供的参数， 路径填写相对路径， 并且不以 . 或者 / 开头， 比如填写本目录下的Sup_SDK_ket/Sup_SDK_ket.m这个文件 就填写 -i Sup_SDK_ket/Sup_SDK_ket.m
+
 3 默认类名同文件名
 
 #### RenameClasses.sh
